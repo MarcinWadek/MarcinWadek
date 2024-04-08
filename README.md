@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Welcome to [MarcinWadek]'s GitHub Profile! 👋
+# Welcome to MarcinWadek's GitHub Profile! 👋
 
 ## About Me
 I'm a certified software tester with experience in both manual and automation testing. I enjoy ensuring the quality and reliability of software products by designing and executing comprehensive test strategies with the usage of the modern technologies.
@@ -10,7 +8,7 @@ I'm a certified software tester with experience in both manual and automation te
 - **Automation Tools:** Selenium, TestNG, JUnit, Rest Assured
 - **Database:** MySQL
 - **API Testing:** Postman
-- **Reports** Allure
+- **Reports:** Allure
 
 - 🔭 I’m currently working on developing my automation frameworks based on Java with RestAssured and Selenium.
 - 🌱 I’m currently learning Jenkins and JavaScript.
