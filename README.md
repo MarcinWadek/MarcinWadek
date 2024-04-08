@@ -9,7 +9,7 @@ I'm a certified software tester with experience in both manual and automation te
 - **Database:** MySQL
 - **API Testing:** Postman
 - **Reports:** Allure
-
+##
 - 🔭 I’m currently working on developing my automation frameworks based on Java with RestAssured and Selenium.
 - 🌱 I’m currently learning Jenkins and JavaScript.
 - 📫 I’m open to relocation.
