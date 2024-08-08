@@ -10,15 +10,13 @@ I'm a certified software tester with experience in both manual and automation te
 - **Automation Tools:** Selenium,Rest Assured
 - **Test Runners:** TestNG, JUnit
 - **API Testing:** Postman
-- **Database:** MySQL
 - **Reporting tools:** Allure
   
 ##
 - 🔭 I’m currently working on developing my automation frameworks based on Java with RestAssured and Selenium.
 - 🌱 I’m currently learning Jenkins and concepts of CI/CD tools.
 - 🌱 I'm keen to learn Playwright and Typescript in the future.
-- 📫 I’m open for relocation.
-- ⚡ I'm available for immediate start.
+- 📫 I’m open for the relocation.
 
 
 - ## Projects
