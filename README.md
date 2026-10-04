@@ -21,7 +21,7 @@ I work primarily with Playwright and TypeScript, integrating automated tests int
 - 🌱 Exploring practical ways to use AI in test automation and QA workflows.
 
 ## Projects
-- awesome-ai - Playwrights's API framework build with codex (WiP)
+- awesome-ai(https://github.com/MarcinWadek/awesome-ai-api) - Playwrights's API framework build with codex (WiP)
 
 ## Contact Me
 - **Email:** [marcinwadek@gmail.com](mailto:marcinwadek@gmail.com)
