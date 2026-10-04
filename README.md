@@ -1,32 +1,29 @@
 # Hello there 👋
 
-
 ## About Me
-I'm a certified software tester with experience in both manual and automation testing. I enjoy ensuring the quality and reliability of software products by designing and executing comprehensive test strategies with the usage of the modern technologies.
+I'm an ISTQB-certified Automation Software Tester with experience in UI and API testing, building automation frameworks, and establishing QA processes from scratch.
 
+I work primarily with Playwright and TypeScript, integrating automated tests into CI/CD pipelines to provide early feedback and support reliable releases. I also use AI-assisted development tools and build custom QA tooling to improve test creation, debugging, traceability, and reporting.
 
 ## Technologies I Work With
-- **Programming Languages:** Java
-- **Automation Tools:** Selenium,Rest Assured
-- **Test Runners:** TestNG, JUnit
-- **API Testing:** Postman
-- **Reporting tools:** Allure
-  
-##
-- 🔭 I’m currently working on developing my automation frameworks based on Java with RestAssured and Selenium.
-- 🌱 I’m currently learning Jenkins and concepts of CI/CD tools.
-- 🌱 I'm keen to learn Playwright and Typescript in the future.
-- 📫 I’m open for the relocation.
+- **Programming Languages:** TypeScript, JavaScript, Java
+- **Automation Tools:** Playwright, Selenium, RestAssured
+- **Test Automation Frameworks:** Playwright, Selenium, RestAssured
+- **CI/CD:** Jenkins
+- **Version Control:** GitHub, Bitbucket
+- **Test Management & Collaboration:** Jira, Zephyr, Confluence-
+- **AI-Assisted Development:** Codex, Claude Code
+
+## What I'm Working On
+- 🔭 Building and maintaining UI and API automation frameworks with Playwright and TypeScript.
+- ⚙️ Integrating automated regression tests and release validation into Jenkins CI/CD pipelines.
+- 🛠️ Developing QA tools for test traceability and reporting.
+- 🤝 Collaborating with developers to validate pull requests and catch regressions early.
+- 🌱 Exploring practical ways to use AI in test automation and QA workflows.
+
+## Projects
 
 
-- ## Projects
-- [Yeti](https://github.com/MarcinWadek/yeti-selenium-java-tests): Web testing with Selenium.
-- [PetStore](https://github.com/MarcinWadek/petstore-restassured-java-tests): API testing with RestAssured.
-
-  
-  ## Contact Me
- - Email: [marcinwadek@gmail.com](marcinwadek@gmail.com)
- - LinkedIn: [LinkedIn](https://www.linkedin.com/in/marcin-w%C4%85dek-160653138/)
- - Phone/Whatsapp: +48694472277
-
-
+## Contact Me
+- **Email:** [marcinwadek@gmail.com](mailto:marcinwadek@gmail.com)
+- **LinkedIn:** [Marcin Wądek](https://www.linkedin.com/in/marcin-w%C4%85dek-160653138/)
