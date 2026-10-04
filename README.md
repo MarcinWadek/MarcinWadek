@@ -1,17 +1,16 @@
 # Hello there 👋
 
 ## About Me
-I'm an ISTQB-certified Automation Software Tester with experience in UI and API testing, building automation frameworks, and establishing QA processes from scratch.
+I'm an ISTQB-certified Automation Software Tester with 3 years of experience in UI and API testing, building automation frameworks, and establishing QA processes from scratch.
 
 I work primarily with Playwright and TypeScript, integrating automated tests into CI/CD pipelines to provide early feedback and support reliable releases. I also use AI-assisted development tools and build custom QA tooling to improve test creation, debugging, traceability, and reporting.
 
 ## Technologies I Work With
 - **Programming Languages:** TypeScript, JavaScript, Java
-- **Automation Tools:** Playwright, Selenium, RestAssured
 - **Test Automation Frameworks:** Playwright, Selenium, RestAssured
 - **CI/CD:** Jenkins
 - **Version Control:** GitHub, Bitbucket
-- **Test Management & Collaboration:** Jira, Zephyr, Confluence-
+- **Test Management & Collaboration:** Jira, Zephyr, Confluence
 - **AI-Assisted Development:** Codex, Claude Code
 
 ## What I'm Working On
@@ -22,7 +21,7 @@ I work primarily with Playwright and TypeScript, integrating automated tests int
 - 🌱 Exploring practical ways to use AI in test automation and QA workflows.
 
 ## Projects
-
+- awesome-ai - Playwrights's API framework build with codex (WiP)
 
 ## Contact Me
 - **Email:** [marcinwadek@gmail.com](mailto:marcinwadek@gmail.com)
